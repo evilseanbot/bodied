@@ -23,5 +23,11 @@ Import the Unity Package: https://drive.google.com/file/d/17IqL-CvScJwebg3Wut6JT
 To make a networked VRIK avatar:
 * Add a "Bodied Avatar" component to a Humanoid rigged model with an Animator component.
 * Right click on the Bodied Avatar component, click on "Configure Full Body Tracked"
-* Put the avatar in a networked player prefab (An example is provided
+* Put the avatar in a networked player prefab (An example is provided)
 * Have the networked player prefab call "RequestOWnershipForAllTransforms" on the avatar at Start.
+
+# Examples
+
+Install the requirements
+
+Run the "Demo" scene in the Assets/BodiedExamples/Scenes folder.
