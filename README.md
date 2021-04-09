@@ -6,7 +6,7 @@ Currently does not track fingers.
 This has not been extensivenly tested, recommended for testing and exploration only.
 
 # Requirements
-Unity > 2020.3: https://unity.com/
+Unity >= 2020.3: https://unity.com/
 
 Normcore >= 2.03: https://normcore.io/
 
