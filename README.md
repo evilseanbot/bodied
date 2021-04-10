@@ -8,7 +8,7 @@ This has not been extensivenly tested, recommended for testing and exploration o
 # Requirements
 Unity >= 2020.3: https://unity.com/
 
-Normcore >= 2.03: https://normcore.io/
+Normcore >= 2.0: https://normcore.io/
 
 Final IK >= 2.0: https://assetstore.unity.com/packages/tools/animation/final-ik-14290
 
@@ -31,3 +31,7 @@ To make a networked VRIK avatar:
 Install the requirements
 
 Run the "Demo" scene in the Assets/BodiedExamples/Scenes folder.
+
+Put a Normal App Key into the Realtime object.
+
+Press play
